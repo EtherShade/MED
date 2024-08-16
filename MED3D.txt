@@ -188,16 +188,6 @@
 	        },
 	        "printed names": {
 	            "en": "CW11 — Graceful Giant"
-	        },
-	        "back": {
-	            "name": "Saving Grace",
-	            "printed_names": {
-	                "en": "Saving Grace"
-	            },
-	            "image_uris": {
-	                "en": "Saving Grace.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -473,16 +463,6 @@
 	        },
 	        "printed names": {
 	            "en": "CU01 — Hunted Borrower"
-	        },
-	        "back": {
-	            "name": "Shameless Theft",
-	            "printed_names": {
-	                "en": "Shameless Theft"
-	            },
-	            "image_uris": {
-	                "en": "Shameless Theft.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -503,16 +483,6 @@
 	        },
 	        "printed names": {
 	            "en": "CU03 — Feymaton"
-	        },
-	        "back": {
-	            "name": "Arcane Imitation",
-	            "printed_names": {
-	                "en": "Arcane Imitation"
-	            },
-	            "image_uris": {
-	                "en": "Arcane Imitation.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -560,16 +530,6 @@
 	        },
 	        "printed names": {
 	            "en": "CU08 — Scheming Giant"
-	        },
-	        "back": {
-	            "name": "Set up the Scheme",
-	            "printed_names": {
-	                "en": "Set up the Scheme"
-	            },
-	            "image_uris": {
-	                "en": "Set up the Scheme.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -626,16 +586,6 @@
 	        },
 	        "printed names": {
 	            "en": "CU14 — Learned Disruption"
-	        },
-	        "back": {
-	            "name": "Swift Study",
-	            "printed_names": {
-	                "en": "Swift Study"
-	            },
-	            "image_uris": {
-	                "en": "Swift Study.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -899,16 +849,6 @@
 	        },
 	        "printed names": {
 	            "en": "CB04 — High-Flying Trickster"
-	        },
-	        "back": {
-	            "name": "Theft From Above",
-	            "printed_names": {
-	                "en": "Theft From Above"
-	            },
-	            "image_uris": {
-	                "en": "Theft From Above.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -956,16 +896,6 @@
 	        },
 	        "printed names": {
 	            "en": "CB09 — Deadly Giant"
-	        },
-	        "back": {
-	            "name": "Deadly Stomp",
-	            "printed_names": {
-	                "en": "Deadly Stomp"
-	            },
-	            "image_uris": {
-	                "en": "Deadly Stomp.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -1256,16 +1186,6 @@
 	        },
 	        "printed names": {
 	            "en": "CR02 — Eager Combatant"
-	        },
-	        "back": {
-	            "name": "First to the Fray",
-	            "printed_names": {
-	                "en": "First to the Fray"
-	            },
-	            "image_uris": {
-	                "en": "First to the Fray.png"
-	            },
-	            "type": "Instant — Adventure "
 	        }
 	    },
 	    {
@@ -1295,16 +1215,6 @@
 	        },
 	        "printed names": {
 	            "en": "CR05 — Ratstalked Knight"
-	        },
-	        "back": {
-	            "name": "Shattering Blow",
-	            "printed_names": {
-	                "en": "Shattering Blow"
-	            },
-	            "image_uris": {
-	                "en": "Shattering Blow.png"
-	            },
-	            "type": "Sorcery — Adventure "
 	        }
 	    },
 	    {
@@ -1316,16 +1226,6 @@
 	        },
 	        "printed names": {
 	            "en": "CR06 — Flamestriker Ogre"
-	        },
-	        "back": {
-	            "name": "Shared Rage",
-	            "printed_names": {
-	                "en": "Shared Rage"
-	            },
-	            "image_uris": {
-	                "en": "Shared Rage.png"
-	            },
-	            "type": "Sorcery — Adventure "
 	        }
 	    },
 	    {
@@ -1355,16 +1255,6 @@
 	        },
 	        "printed names": {
 	            "en": "CR09 — Raging Giant"
-	        },
-	        "back": {
-	            "name": "Raging Spark",
-	            "printed_names": {
-	                "en": "Raging Spark"
-	            },
-	            "image_uris": {
-	                "en": "Raging Spark.png"
-	            },
-	            "type": "Sorcery — Adventure "
 	        }
 	    },
 	    {
@@ -1727,16 +1617,6 @@
 	        },
 	        "printed names": {
 	            "en": "CG10 — Wilden Giant"
-	        },
-	        "back": {
-	            "name": "Wilden Strength",
-	            "printed_names": {
-	                "en": "Wilden Strength"
-	            },
-	            "image_uris": {
-	                "en": "Wilden Strength.png"
-	            },
-	            "type": "Sorcery — Adventure "
 	        }
 	    },
 	    {
@@ -2399,16 +2279,6 @@
 	        },
 	        "printed names": {
 	            "en": "CA02 — Clockwork Friend"
-	        },
-	        "back": {
-	            "name": "Play with Time",
-	            "printed_names": {
-	                "en": "Play with Time"
-	            },
-	            "image_uris": {
-	                "en": "Play with Time.png"
-	            },
-	            "type": "Sorcery — Adventure "
 	        }
 	    },
 	    {
