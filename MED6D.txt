@@ -184,7 +184,7 @@
 	        "mana_cost": "{6}{W}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "CW11 — Graceful Giant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CW11 — Graceful Giant.png"
 	        },
 	        "printed names": {
 	            "en": "CW11 — Graceful Giant"
@@ -195,7 +195,7 @@
 	                "en": "Saving Grace"
 	            },
 	            "image_uris": {
-	                "en": "Saving Grace.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Saving Grace.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -241,7 +241,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "MW01 — The Circle Dormant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/MW01 — The Circle Dormant.png"
 	        },
 	        "printed names": {
 	            "en": "MW01 — The Circle Dormant"
@@ -252,7 +252,7 @@
 	                "en": "The Circle Awakened"
 	            },
 	            "image_uris": {
-	                "en": "The Circle Awakened.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/The Circle Awakened.png"
 	            },
 	            "type": "Legendary Artifact"
 	        }
@@ -271,7 +271,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Beast ",
 	        "image_uris": {
-	            "en": "MW02 — #Loyalty Beast Returned.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/MW02 — #Loyalty Beast Returned.png"
 	        },
 	        "printed names": {
 	            "en": "MW02 — #Loyalty Beast Returned"
@@ -282,7 +282,7 @@
 	                "en": "The Archon of Loyalty"
 	            },
 	            "image_uris": {
-	                "en": "The Archon of Loyalty.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/The Archon of Loyalty.png"
 	            },
 	            "type": "Legendary Creature — Archon "
 	        }
@@ -472,7 +472,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "UW14 — Unlikely Virtue.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/UW14 — Unlikely Virtue.png"
 	        },
 	        "printed names": {
 	            "en": "UW14 — Unlikely Virtue"
@@ -483,7 +483,7 @@
 	                "en": "Redemption Quest"
 	            },
 	            "image_uris": {
-	                "en": "Redemption Quest.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Redemption Quest.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -493,7 +493,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Faerie Rogue ",
 	        "image_uris": {
-	            "en": "CU01 — Hunted Borrower.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CU01 — Hunted Borrower.png"
 	        },
 	        "printed names": {
 	            "en": "CU01 — Hunted Borrower"
@@ -504,7 +504,7 @@
 	                "en": "Shameless Theft"
 	            },
 	            "image_uris": {
-	                "en": "Shameless Theft.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Shameless Theft.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -532,7 +532,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Construct Warrior ",
 	        "image_uris": {
-	            "en": "CU04 — Ticking Guards.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CU04 — Ticking Guards.png"
 	        },
 	        "printed names": {
 	            "en": "CU04 — Ticking Guards"
@@ -543,7 +543,7 @@
 	                "en": "Tinker's Ticking Armor"
 	            },
 	            "image_uris": {
-	                "en": "Tinker's Ticking Armor.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Tinker's Ticking Armor.png"
 	            },
 	            "type": "Instant"
 	        }
@@ -580,7 +580,7 @@
 	        "mana_cost": "{6}{U}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "CU08 — Scheming Giant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CU08 — Scheming Giant.png"
 	        },
 	        "printed names": {
 	            "en": "CU08 — Scheming Giant"
@@ -591,7 +591,7 @@
 	                "en": "Set up the Scheme"
 	            },
 	            "image_uris": {
-	                "en": "Set up the Scheme.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Set up the Scheme.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -619,7 +619,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "CU11 — Guardian's Gauntlets.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CU11 — Guardian's Gauntlets.png"
 	        },
 	        "printed names": {
 	            "en": "CU11 — Guardian's Gauntlets"
@@ -630,7 +630,7 @@
 	                "en": "Where's the Guardian?"
 	            },
 	            "image_uris": {
-	                "en": "Where's the Guardian?.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Where's the Guardian?.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -919,7 +919,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Faerie ",
 	        "image_uris": {
-	            "en": "CB04 — High-Flying Trickster.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CB04 — High-Flying Trickster.png"
 	        },
 	        "printed names": {
 	            "en": "CB04 — High-Flying Trickster"
@@ -930,7 +930,7 @@
 	                "en": "Theft From Above"
 	            },
 	            "image_uris": {
-	                "en": "Theft From Above.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Theft From Above.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -976,7 +976,7 @@
 	        "mana_cost": "{6}{B}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "CB09 — Deadly Giant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CB09 — Deadly Giant.png"
 	        },
 	        "printed names": {
 	            "en": "CB09 — Deadly Giant"
@@ -987,7 +987,7 @@
 	                "en": "Deadly Stomp"
 	            },
 	            "image_uris": {
-	                "en": "Deadly Stomp.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Deadly Stomp.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -1276,7 +1276,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Dwarf Knight ",
 	        "image_uris": {
-	            "en": "CR02 — Eager Combatant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CR02 — Eager Combatant.png"
 	        },
 	        "printed names": {
 	            "en": "CR02 — Eager Combatant"
@@ -1287,7 +1287,7 @@
 	                "en": "First to the Fray"
 	            },
 	            "image_uris": {
-	                "en": "First to the Fray.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/First to the Fray.png"
 	            },
 	            "type": "Instant — Adventure "
 	        }
@@ -1315,7 +1315,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Dwarf Knight ",
 	        "image_uris": {
-	            "en": "CR05 — Ratstalked Knight.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CR05 — Ratstalked Knight.png"
 	        },
 	        "printed names": {
 	            "en": "CR05 — Ratstalked Knight"
@@ -1326,7 +1326,7 @@
 	                "en": "Shattering Blow"
 	            },
 	            "image_uris": {
-	                "en": "Shattering Blow.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Shattering Blow.png"
 	            },
 	            "type": "Sorcery — Adventure "
 	        }
@@ -1336,7 +1336,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Ogre ",
 	        "image_uris": {
-	            "en": "CR06 — Flamestriker Ogre.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CR06 — Flamestriker Ogre.png"
 	        },
 	        "printed names": {
 	            "en": "CR06 — Flamestriker Ogre"
@@ -1347,7 +1347,7 @@
 	                "en": "Shared Rage"
 	            },
 	            "image_uris": {
-	                "en": "Shared Rage.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Shared Rage.png"
 	            },
 	            "type": "Sorcery — Adventure "
 	        }
@@ -1375,7 +1375,7 @@
 	        "mana_cost": "{6}{R}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "CR09 — Raging Giant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CR09 — Raging Giant.png"
 	        },
 	        "printed names": {
 	            "en": "CR09 — Raging Giant"
@@ -1386,7 +1386,7 @@
 	                "en": "Raging Spark"
 	            },
 	            "image_uris": {
-	                "en": "Raging Spark.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Raging Spark.png"
 	            },
 	            "type": "Sorcery — Adventure "
 	        }
@@ -1468,7 +1468,7 @@
 	        "mana_cost": "{2}{B/R}{B/R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "MZ02 — Rowan, Eriette's Pawn.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/MZ02 — Rowan, Eriette's Pawn.png"
 	        },
 	        "printed names": {
 	            "en": "MZ02 — Rowan, Eriette's Pawn"
@@ -1479,7 +1479,7 @@
 	                "en": "Rowan, Master of Embereth"
 	            },
 	            "image_uris": {
-	                "en": "Rowan, Master of Embereth.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Rowan, Master of Embereth.png"
 	            },
 	            "type": "Legendary Creature — Human Noble "
 	        }
@@ -1759,7 +1759,7 @@
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Giant ",
 	        "image_uris": {
-	            "en": "CG10 — Wilden Giant.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CG10 — Wilden Giant.png"
 	        },
 	        "printed names": {
 	            "en": "CG10 — Wilden Giant"
@@ -1770,7 +1770,7 @@
 	                "en": "Wilden Strength"
 	            },
 	            "image_uris": {
-	                "en": "Wilden Strength.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Wilden Strength.png"
 	            },
 	            "type": "Sorcery — Adventure "
 	        }
@@ -1834,7 +1834,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Legendary Creature — Beast ",
 	        "image_uris": {
-	            "en": "MG02 — Questing Beast Returned.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/MG02 — Questing Beast Returned.png"
 	        },
 	        "printed names": {
 	            "en": "MG02 — Questing Beast Returned"
@@ -1845,7 +1845,7 @@
 	                "en": "The Archon of Quests"
 	            },
 	            "image_uris": {
-	                "en": "The Archon of Quests.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/The Archon of Quests.png"
 	            },
 	            "type": "Legendary Creature — Archon "
 	        }
@@ -2422,7 +2422,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "CA02 — Clockwork Friend.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/CA02 — Clockwork Friend.png"
 	        },
 	        "printed names": {
 	            "en": "CA02 — Clockwork Friend"
@@ -2433,7 +2433,7 @@
 	                "en": "Play with Time"
 	            },
 	            "image_uris": {
-	                "en": "Play with Time.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Play with Time.png"
 	            },
 	            "type": "Sorcery — Adventure "
 	        }
@@ -2641,7 +2641,7 @@
 	        "mana_cost": "{2}{W/U}{W/U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "MZ01 — Will, the Boy King.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/MZ01 — Will, the Boy King.png"
 	        },
 	        "printed names": {
 	            "en": "MZ01 — Will, the Boy King"
@@ -2652,12 +2652,194 @@
 	                "en": "Will, Master of Vantress"
 	            },
 	            "image_uris": {
-	                "en": "Will, Master of Vantress.png"
+	                "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED6C-files/Will, Master of Vantress.png"
 	            },
 	            "type": "Legendary Creature — Human Noble "
 	        }
 	    }
 	]
+	[RareSlot(0)]
+		0 RX01
+		0 RX02
+		0 RX03
+		0 RX04
+		0 RX05
+		0 RW01
+		0 RW02
+		0 RW03
+		0 RW04
+		0 RW05
+		0 RW06
+		0 RW07 — Ardenvale Restored
+		0 RU01
+		0 RU02
+		0 RU03
+		0 RU04
+		0 RU05
+		0 RU06
+		0 RU07 — Vantress Restored
+		0 RB01
+		0 RB02
+		0 RB03
+		0 RB04
+		0 RB05
+		0 RB06
+		0 RB07 — Locthwain Restored
+		0 RR01
+		0 RR02
+		0 RR03
+		0 RR04
+		0 RR05
+		0 RR06
+		0 RR07 — Embereth Restored
+		0 RG01
+		0 RG02
+		0 RG03
+		0 RG04
+		0 RG05
+		0 RG06
+		0 RG07 — Garenbrig Restored
+		0 RM03
+		0 RM05
+		0 RM07
+		0 RM09
+		0 RM11
+		0 RM17
+		0 RM13
+		0 RM19
+		0 RM15
+		0 RM01
+		0 RM02
+		0 RM10
+		0 RM16
+		0 RM20
+		0 RM14
+		0 RM18
+		0 RM12
+		0 RM08
+		0 RM06
+		0 RM04
+		0 MX01
+		0 MX02
+		0 MX03
+		0 MX04
+		0 MM04 — Ashiok, Archon Seeker
+		0 MW01 — The Circle Dormant
+		0 MM01 — Eriette, Wicked Whisperer
+		0 MW02 — #Loyalty Beast Returned
+		0 MU01 — The Shifting Magic Mirror
+		0 MU02
+		0 MM02 — Sorin, Death Connoisseur
+		0 MB01 — The Cauldron of Eternal Death
+		0 MB02
+		0 MM03 — Oko, Ancient Trickster
+		0 MR01 — The Irencrag, Legend Forger
+		0 MR02
+		0 MZ02 — Rowan, Eriette's Pawn
+		0 MG01 — Syr Ginger Hengebreaker
+		0 MG02 — Questing Beast Returned
+		0 MZ01 — Will, the Boy King
+	[UncommonSlot(0)]
+		0 UW01 — Valiant Treasurer
+		0 UW02 — Mob Rallier
+		0 UW03 — Enhanceable Simulacrum
+		0 UW04 — Enhancing Beast
+		0 UW05 — Knight of Relics
+		0 UW06 — Relic Hunter's Steed
+		0 UW07 — Auric Warrior
+		0 UW08 — Unknown Innocents
+		0 UW09 — Indebted Squire
+		0 UW10 — Gallant Jouster
+		0 UW11 — Rose's Pot of Stew
+		0 UW12 — Will's Tenuous Peace
+		0 UW13 — Gatekeep
+		0 UW14 — Unlikely Virtue
+		0 UU01 — Faerie Vandal
+		0 UU02 — Loot Fracture
+		0 UU03 — Hylda's Arcane Knowledge
+		0 UU04 — Arcana Elemental
+		0 UU05
+		0 UU14
+		0 UU07
+		0 UU08 —
+		0 UU09 — Questseeker's Relic
+		0 UU10 — Airborn Messenger
+		0 UU06
+		0 UU12
+		0 UU13
+		0 UU11 — Exterminator Plaything
+		0 UB01 — Flesh Assimilator
+		0 UB02
+		0 UB03
+		0 UB04
+		0 UB05
+		0 UB06
+		0 UB07
+		0 UB08
+		0 UB09
+		0 UB10
+		0 UB11
+		0 UB12
+		0 UB13
+		0 UB14
+		0 UR01 — Goblin Irenmancer
+		0 UR02
+		0 UR03
+		0 UR04
+		0 UR05
+		0 UR06
+		0 UR07
+		0 UR08
+		0 UR09
+		0 UR10
+		0 UR11
+		0 UR12
+		0 UR13
+		0 UR14
+		0 UG01 — Hungry Watchdogs
+		0 UG02
+		0 UG03
+		0 UG04
+		0 UG05
+		0 UG06
+		0 UG07
+		0 UG08
+		0 UG09
+		0 UG10
+		0 UG11
+		0 UG12
+		0 UG13
+		0 UG14
+		0 UM07 — Grumgully, Wilden Speaker
+		0 UM05 — Skeril, True Piper
+		0 UM03 — Obyra, Fey Champion
+		0 UM01 — Hylda, Retired Witch
+		0 UM19 — Syr Vance, Stalwart Hero
+		0 UM14 — Oliver's Theft
+		0 UM15 — Grigog, Gingerhorde Marshal
+		0 UM17 — Johann, Chaotic Sorcerer
+		0 UM11 — Syr Armont, the Betrayer
+		0 UM10 — Rose's Discovery
+		0 UM18 — Johann's Failure
+		0 UM16 — Grigog's Tactics
+		0 UM06 — Skeril's Servitude
+		0 UM12 — Armont's Betrayal
+		0 UM08 — Grumgully's Teachings
+		0 UM04 — Obyra's Awakening
+		0 UM09 — Rose, Pursuer of History
+		0 UM02 — Hylda's Change of Heart
+		0 UM20 — Vance's Act of Heroism
+		0 UM13 — Oliver, Stolen Child
+		0 UA01
+		0 UA02
+		0 UA03
+		0 UA04
+		0 UA05
+		0 UA06
+		0 UA07
+		0 UL01
+		0 UL02
+		0 UL03
 	[CommonSlot(15)]
 		50 CW01 — Enraptured Woodsman
 		50 CW02 — Armont's Seeker
@@ -2740,3 +2922,5 @@
 		50 CA03 — Voidflower Stew
 		50 CA04 — Monolith of Heroics
 		50 CC02 — Questseek
+	[BasicSlot(0)]
+	
