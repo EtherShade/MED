@@ -2740,4 +2740,3 @@
 		50 CA03 — Voidflower Stew
 		50 CA04 — Monolith of Heroics
 		50 CC02 — Questseek
-	[BasicSlot(1 
