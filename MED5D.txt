@@ -1,0 +1,2925 @@
+[CustomCards]
+	[    {
+	        "name": "MX01",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MX01.png"
+	        }
+	    },
+	    {
+	        "name": "MX02",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MX02.png"
+	        }
+	    },
+	    {
+	        "name": "MX03",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MX03.png"
+	        }
+	    },
+	    {
+	        "name": "MX04",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MX04.png"
+	        }
+	    },
+	    {
+	        "name": "MM04 — Ashiok, Archon Seeker",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{B}",
+	        "type": "Legendary Planeswalker — Ashiok ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MM04 — Ashiok, Archon Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "RX01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RX01.png"
+	        }
+	    },
+	    {
+	        "name": "RX02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RX02.png"
+	        }
+	    },
+	    {
+	        "name": "RX03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RX03.png"
+	        }
+	    },
+	    {
+	        "name": "RX04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RX04.png"
+	        }
+	    },
+	    {
+	        "name": "RX05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RX05.png"
+	        }
+	    },
+	    {
+	        "name": "CW01 — Enraptured Woodsman",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW01 — Enraptured Woodsman.png"
+	        }
+	    },
+	    {
+	        "name": "CW02 — Armont's Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW02 — Armont's Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "CW03 — Vance's Squire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW03 — Vance's Squire.png"
+	        }
+	    },
+	    {
+	        "name": "CW04 — Hylda's Apprentice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW04 — Hylda's Apprentice.png"
+	        }
+	    },
+	    {
+	        "name": "CW05 — Relic Hunter's Familiar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW05 — Relic Hunter's Familiar.png"
+	        }
+	    },
+	    {
+	        "name": "CW06 — Hunting Eagle",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW06 — Hunting Eagle.png"
+	        }
+	    },
+	    {
+	        "name": "CW07 — False Heir",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW07 — False Heir.png"
+	        }
+	    },
+	    {
+	        "name": "CW08 — Inspiring Jouster",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Dwarf Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW08 — Inspiring Jouster.png"
+	        }
+	    },
+	    {
+	        "name": "CW09 — Vance's Rally",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Kindred Sorcery — Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW09 — Vance's Rally.png"
+	        }
+	    },
+	    {
+	        "name": "CW10 — Seeker of Heroes",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW10 — Seeker of Heroes.png"
+	        }
+	    },
+	    {
+	        "name": "CW11 — Graceful Giant",
+	        "mana_cost": "{6}{W}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "CW11 — Graceful Giant.png"
+	        },
+	        "printed names": {
+	            "en": "CW11 — Graceful Giant"
+	        },
+	        "back": {
+	            "name": "Saving Grace",
+	            "printed_names": {
+	                "en": "Saving Grace"
+	            },
+	            "image_uris": {
+	                "en": "Saving Grace.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CW12 — Eriette's Lullaby",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW12 — Eriette's Lullaby.png"
+	        }
+	    },
+	    {
+	        "name": "CW13 — Rose's Erasure",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW13 — Rose's Erasure.png"
+	        }
+	    },
+	    {
+	        "name": "CW14 — Swift Baking",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW14 — Swift Baking.png"
+	        }
+	    },
+	    {
+	        "name": "CW15 — Disenchantive Mentality",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CW15 — Disenchantive Mentality.png"
+	        }
+	    },
+	    {
+	        "name": "MW01 — The Circle Dormant",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "MW01 — The Circle Dormant.png"
+	        },
+	        "printed names": {
+	            "en": "MW01 — The Circle Dormant"
+	        },
+	        "back": {
+	            "name": "The Circle Awakened",
+	            "printed_names": {
+	                "en": "The Circle Awakened"
+	            },
+	            "image_uris": {
+	                "en": "The Circle Awakened.png"
+	            },
+	            "type": "Legendary Artifact"
+	        }
+	    },
+	    {
+	        "name": "MM01 — Eriette, Wicked Whisperer",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MM01 — Eriette, Wicked Whisperer.png"
+	        }
+	    },
+	    {
+	        "name": "MW02 — Loyalty Beast Returned",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Beast ",
+	        "image_uris": {
+	            "en": "MW02 — Loyalty Beast Returned.png"
+	        },
+	        "printed names": {
+	            "en": "MW02 — Loyalty Beast Returned"
+	        },
+	        "back": {
+	            "name": "The Archon of Loyalty",
+	            "printed_names": {
+	                "en": "The Archon of Loyalty"
+	            },
+	            "image_uris": {
+	                "en": "The Archon of Loyalty.png"
+	            },
+	            "type": "Legendary Creature — Archon "
+	        }
+	    },
+	    {
+	        "name": "RW01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW01.png"
+	        }
+	    },
+	    {
+	        "name": "RW02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW02.png"
+	        }
+	    },
+	    {
+	        "name": "RW03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW03.png"
+	        }
+	    },
+	    {
+	        "name": "RW04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW04.png"
+	        }
+	    },
+	    {
+	        "name": "RW05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW05.png"
+	        }
+	    },
+	    {
+	        "name": "RW06",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW06.png"
+	        }
+	    },
+	    {
+	        "name": "RW07 — Ardenvale Restored",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RW07 — Ardenvale Restored.png"
+	        }
+	    },
+	    {
+	        "name": "UW01 — Valiant Treasurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW01 — Valiant Treasurer.png"
+	        }
+	    },
+	    {
+	        "name": "UW02 — Mob Rallier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW02 — Mob Rallier.png"
+	        }
+	    },
+	    {
+	        "name": "UW03 — Enhanceable Simulacrum",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact Creature — Construct  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW03 — Enhanceable Simulacrum.png"
+	        }
+	    },
+	    {
+	        "name": "UW04 — Enhancing Beast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW04 — Enhancing Beast.png"
+	        }
+	    },
+	    {
+	        "name": "UW05 — Knight of Relics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW05 — Knight of Relics.png"
+	        }
+	    },
+	    {
+	        "name": "UW06 — Relic Hunter's Steed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW06 — Relic Hunter's Steed.png"
+	        }
+	    },
+	    {
+	        "name": "UW07 — Auric Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW07 — Auric Warrior.png"
+	        }
+	    },
+	    {
+	        "name": "UW08 — Unknown Innocents",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW08 — Unknown Innocents.png"
+	        }
+	    },
+	    {
+	        "name": "UW09 — Indebted Squire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW09 — Indebted Squire.png"
+	        }
+	    },
+	    {
+	        "name": "UW10 — Gallant Jouster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dwarf Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW10 — Gallant Jouster.png"
+	        }
+	    },
+	    {
+	        "name": "UW11",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW11.png"
+	        }
+	    },
+	    {
+	        "name": "UW12",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW12.png"
+	        }
+	    },
+	    {
+	        "name": "UW13",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UW13.png"
+	        }
+	    },
+	    {
+	        "name": "UW14 — Unlikely Virtue",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "UW14 — Unlikely Virtue.png"
+	        },
+	        "printed names": {
+	            "en": "UW14 — Unlikely Virtue"
+	        },
+	        "back": {
+	            "name": "Decree of Exile",
+	            "printed_names": {
+	                "en": "Decree of Exile"
+	            },
+	            "image_uris": {
+	                "en": "Decree of Exile.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CU01 — Hunted Borrower",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Faerie Rogue ",
+	        "image_uris": {
+	            "en": "CU01 — Hunted Borrower.png"
+	        },
+	        "printed names": {
+	            "en": "CU01 — Hunted Borrower"
+	        },
+	        "back": {
+	            "name": "Shameless Theft",
+	            "printed_names": {
+	                "en": "Shameless Theft"
+	            },
+	            "image_uris": {
+	                "en": "Shameless Theft.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CU02 — Paradoxical Ghost",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment Creature — Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU02 — Paradoxical Ghost.png"
+	        }
+	    },
+	    {
+	        "name": "CU03 — Feymaton",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact Creature — Faerie ",
+	        "image_uris": {
+	            "en": "CU03 — Feymaton.png"
+	        },
+	        "printed names": {
+	            "en": "CU03 — Feymaton"
+	        },
+	        "back": {
+	            "name": "Arcane Imitation",
+	            "printed_names": {
+	                "en": "Arcane Imitation"
+	            },
+	            "image_uris": {
+	                "en": "Arcane Imitation.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CU04 — Encumbered Guardian",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "CU04 — Encumbered Guardian.png"
+	        },
+	        "printed names": {
+	            "en": "CU04 — Encumbered Guardian"
+	        },
+	        "back": {
+	            "name": "Overarmored",
+	            "printed_names": {
+	                "en": "Overarmored"
+	            },
+	            "image_uris": {
+	                "en": "Overarmored.png"
+	            },
+	            "type": "Instant"
+	        }
+	    },
+	    {
+	        "name": "CU05 — Balanced Eater",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU05 — Balanced Eater.png"
+	        }
+	    },
+	    {
+	        "name": "CU06 — Farsight Frog",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU06 — Farsight Frog.png"
+	        }
+	    },
+	    {
+	        "name": "CU07 — Talion's Warcaller",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Enchantment Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU07 — Talion's Warcaller.png"
+	        }
+	    },
+	    {
+	        "name": "CU08 — Scheming Giant",
+	        "mana_cost": "{6}{U}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "CU08 — Scheming Giant.png"
+	        },
+	        "printed names": {
+	            "en": "CU08 — Scheming Giant"
+	        },
+	        "back": {
+	            "name": "Set up the Scheme",
+	            "printed_names": {
+	                "en": "Set up the Scheme"
+	            },
+	            "image_uris": {
+	                "en": "Set up the Scheme.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CU09 — Grigog's Enhancement",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU09 — Grigog's Enhancement.png"
+	        }
+	    },
+	    {
+	        "name": "CU10 — Adamant Negation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU10 — Adamant Negation.png"
+	        }
+	    },
+	    {
+	        "name": "CU11 — Moonrise Gauntlets",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU11 — Moonrise Gauntlets.png"
+	        }
+	    },
+	    {
+	        "name": "CU12 — Unexplained Vision",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU12 — Unexplained Vision.png"
+	        }
+	    },
+	    {
+	        "name": "CU13 — Witness Frogification",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU13 — Witness Frogification.png"
+	        }
+	    },
+	    {
+	        "name": "CU14 — Learned Disruption",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU14 — Learned Disruption.png"
+	        }
+	    },
+	    {
+	        "name": "CU15 — Fey Dealings",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CU15 — Fey Dealings.png"
+	        }
+	    },
+	    {
+	        "name": "MU01 — The Shifting Magic Mirror",
+	        "rarity": "mythic",
+	        "mana_cost": "{7}{U}{U}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MU01 — The Shifting Magic Mirror.png"
+	        }
+	    },
+	    {
+	        "name": "MU02",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MU02.png"
+	        }
+	    },
+	    {
+	        "name": "MM02 — Sorin, Death Connoisseur",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Sorin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MM02 — Sorin, Death Connoisseur.png"
+	        }
+	    },
+	    {
+	        "name": "RU01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU01.png"
+	        }
+	    },
+	    {
+	        "name": "RU02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU02.png"
+	        }
+	    },
+	    {
+	        "name": "RU03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU03.png"
+	        }
+	    },
+	    {
+	        "name": "RU04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU04.png"
+	        }
+	    },
+	    {
+	        "name": "RU05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU05.png"
+	        }
+	    },
+	    {
+	        "name": "RU06",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU06.png"
+	        }
+	    },
+	    {
+	        "name": "RU07 — Vantress Restored",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RU07 — Vantress Restored.png"
+	        }
+	    },
+	    {
+	        "name": "UU01 — Faerie Vandal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Faerie Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU01 — Faerie Vandal.png"
+	        }
+	    },
+	    {
+	        "name": "UU02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU02.png"
+	        }
+	    },
+	    {
+	        "name": "UU03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU03.png"
+	        }
+	    },
+	    {
+	        "name": "UU04",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU04.png"
+	        }
+	    },
+	    {
+	        "name": "UU05",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU05.png"
+	        }
+	    },
+	    {
+	        "name": "UU14",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU14.png"
+	        }
+	    },
+	    {
+	        "name": "UU07",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU07.png"
+	        }
+	    },
+	    {
+	        "name": "UU08 — #paradox payoff",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU08 — #paradox payoff.png"
+	        }
+	    },
+	    {
+	        "name": "UU09",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU09.png"
+	        }
+	    },
+	    {
+	        "name": "UU10",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU10.png"
+	        }
+	    },
+	    {
+	        "name": "UU11",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU11.png"
+	        }
+	    },
+	    {
+	        "name": "UU12",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU12.png"
+	        }
+	    },
+	    {
+	        "name": "UU13",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU13.png"
+	        }
+	    },
+	    {
+	        "name": "UU06 — Exterminator Plaything",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact Creature — Cat Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UU06 — Exterminator Plaything.png"
+	        }
+	    },
+	    {
+	        "name": "CB03 — Poisoned Gingerwarrior",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Food Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB03 — Poisoned Gingerwarrior.png"
+	        }
+	    },
+	    {
+	        "name": "CB02 — Accursed Faerie",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB02 — Accursed Faerie.png"
+	        }
+	    },
+	    {
+	        "name": "CB01 — Herald of the Swarm",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB01 — Herald of the Swarm.png"
+	        }
+	    },
+	    {
+	        "name": "CB04 — High-Flying Trickster",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "CB04 — High-Flying Trickster.png"
+	        },
+	        "printed names": {
+	            "en": "CB04 — High-Flying Trickster"
+	        },
+	        "back": {
+	            "name": "Theft From Above",
+	            "printed_names": {
+	                "en": "Theft From Above"
+	            },
+	            "image_uris": {
+	                "en": "Theft From Above.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CB05 — Charmed Vermin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB05 — Charmed Vermin.png"
+	        }
+	    },
+	    {
+	        "name": "CB06 — Grounded Faeries",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB06 — Grounded Faeries.png"
+	        }
+	    },
+	    {
+	        "name": "CB07 — Faerie Overseer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Enchantment Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB07 — Faerie Overseer.png"
+	        }
+	    },
+	    {
+	        "name": "CB08 — Skeril's Ratcaller",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Rat  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB08 — Skeril's Ratcaller.png"
+	        }
+	    },
+	    {
+	        "name": "CB09 — Deadly Giant",
+	        "mana_cost": "{6}{B}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "CB09 — Deadly Giant.png"
+	        },
+	        "printed names": {
+	            "en": "CB09 — Deadly Giant"
+	        },
+	        "back": {
+	            "name": "Deadly Stomp",
+	            "printed_names": {
+	                "en": "Deadly Stomp"
+	            },
+	            "image_uris": {
+	                "en": "Deadly Stomp.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CB10 — Spiteful Strength",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB10 — Spiteful Strength.png"
+	        }
+	    },
+	    {
+	        "name": "CB11 — Auric Fortitude",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB11 — Auric Fortitude.png"
+	        }
+	    },
+	    {
+	        "name": "CB12 — Armont's Sacrifice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB12 — Armont's Sacrifice.png"
+	        }
+	    },
+	    {
+	        "name": "CB13 — Oliver's Manipulation",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB13 — Oliver's Manipulation.png"
+	        }
+	    },
+	    {
+	        "name": "CB14 — Murderous Choice",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB14 — Murderous Choice.png"
+	        }
+	    },
+	    {
+	        "name": "CB15 — Go for the Brain",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CB15 — Go for the Brain.png"
+	        }
+	    },
+	    {
+	        "name": "MB01 — The Cauldron of Eternal Death",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MB01 — The Cauldron of Eternal Death.png"
+	        }
+	    },
+	    {
+	        "name": "MB02",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MB02.png"
+	        }
+	    },
+	    {
+	        "name": "MM03 — Oko, Ancient Trickster",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Legendary Planeswalker — Oko ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MM03 — Oko, Ancient Trickster.png"
+	        }
+	    },
+	    {
+	        "name": "RB01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB01.png"
+	        }
+	    },
+	    {
+	        "name": "RB02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB02.png"
+	        }
+	    },
+	    {
+	        "name": "RB03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB03.png"
+	        }
+	    },
+	    {
+	        "name": "RB04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB04.png"
+	        }
+	    },
+	    {
+	        "name": "RB05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB05.png"
+	        }
+	    },
+	    {
+	        "name": "RB06",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB06.png"
+	        }
+	    },
+	    {
+	        "name": "RB07 — Locthwain Restored",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RB07 — Locthwain Restored.png"
+	        }
+	    },
+	    {
+	        "name": "UB01 — Flesh Assimilator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Skeleton Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB01 — Flesh Assimilator.png"
+	        }
+	    },
+	    {
+	        "name": "UB02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB02.png"
+	        }
+	    },
+	    {
+	        "name": "UB03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB03.png"
+	        }
+	    },
+	    {
+	        "name": "UB04",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB04.png"
+	        }
+	    },
+	    {
+	        "name": "UB05",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB05.png"
+	        }
+	    },
+	    {
+	        "name": "UB06",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB06.png"
+	        }
+	    },
+	    {
+	        "name": "UB07",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB07.png"
+	        }
+	    },
+	    {
+	        "name": "UB08",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB08.png"
+	        }
+	    },
+	    {
+	        "name": "UB09",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB09.png"
+	        }
+	    },
+	    {
+	        "name": "UB10",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB10.png"
+	        }
+	    },
+	    {
+	        "name": "UB11",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB11.png"
+	        }
+	    },
+	    {
+	        "name": "UB12",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB12.png"
+	        }
+	    },
+	    {
+	        "name": "UB13",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB13.png"
+	        }
+	    },
+	    {
+	        "name": "UB14",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UB14.png"
+	        }
+	    },
+	    {
+	        "name": "CR01 — Redcap Spearguard",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Goblin Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR01 — Redcap Spearguard.png"
+	        }
+	    },
+	    {
+	        "name": "CR02 — Eager Combatant",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Dwarf Knight ",
+	        "image_uris": {
+	            "en": "CR02 — Eager Combatant.png"
+	        },
+	        "printed names": {
+	            "en": "CR02 — Eager Combatant"
+	        },
+	        "back": {
+	            "name": "First to the Fray",
+	            "printed_names": {
+	                "en": "First to the Fray"
+	            },
+	            "image_uris": {
+	                "en": "First to the Fray.png"
+	            },
+	            "type": "Instant — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CR03 — Trebuchet Ramparts",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR03 — Trebuchet Ramparts.png"
+	        }
+	    },
+	    {
+	        "name": "CR04 — Redcap Rummager",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR04 — Redcap Rummager.png"
+	        }
+	    },
+	    {
+	        "name": "CR05 — Ratstalked Knight",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Dwarf Knight ",
+	        "image_uris": {
+	            "en": "CR05 — Ratstalked Knight.png"
+	        },
+	        "printed names": {
+	            "en": "CR05 — Ratstalked Knight"
+	        },
+	        "back": {
+	            "name": "Shattering Blow",
+	            "printed_names": {
+	                "en": "Shattering Blow"
+	            },
+	            "image_uris": {
+	                "en": "Shattering Blow.png"
+	            },
+	            "type": "Sorcery — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CR06 — Flamestriker Ogre",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Ogre ",
+	        "image_uris": {
+	            "en": "CR06 — Flamestriker Ogre.png"
+	        },
+	        "printed names": {
+	            "en": "CR06 — Flamestriker Ogre"
+	        },
+	        "back": {
+	            "name": "Shared Rage",
+	            "printed_names": {
+	                "en": "Shared Rage"
+	            },
+	            "image_uris": {
+	                "en": "Shared Rage.png"
+	            },
+	            "type": "Sorcery — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CR07 — Wildenrage Bull",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Ox ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR07 — Wildenrage Bull.png"
+	        }
+	    },
+	    {
+	        "name": "CR08 — Writhing Hulk",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Rat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR08 — Writhing Hulk.png"
+	        }
+	    },
+	    {
+	        "name": "CR09 — Raging Giant",
+	        "mana_cost": "{6}{R}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "CR09 — Raging Giant.png"
+	        },
+	        "printed names": {
+	            "en": "CR09 — Raging Giant"
+	        },
+	        "back": {
+	            "name": "Raging Spark",
+	            "printed_names": {
+	                "en": "Raging Spark"
+	            },
+	            "image_uris": {
+	                "en": "Raging Spark.png"
+	            },
+	            "type": "Sorcery — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CR10 — Sunfire Strength",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR10 — Sunfire Strength.png"
+	        }
+	    },
+	    {
+	        "name": "CR11 — Firesight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR11 — Firesight.png"
+	        }
+	    },
+	    {
+	        "name": "CR12 — Flick a Coin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR12 — Flick a Coin.png"
+	        }
+	    },
+	    {
+	        "name": "CR13 — Paradoxical Might",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR13 — Paradoxical Might.png"
+	        }
+	    },
+	    {
+	        "name": "CR14 — Burning Sight",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR14 — Burning Sight.png"
+	        }
+	    },
+	    {
+	        "name": "CR15 — Flames and Sparks",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CR15 — Flames and Sparks.png"
+	        }
+	    },
+	    {
+	        "name": "MR01 — The Irencrag, Legend Forger",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MR01 — The Irencrag, Legend Forger.png"
+	        }
+	    },
+	    {
+	        "name": "MR02",
+	        "rarity": "mythic",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MR02.png"
+	        }
+	    },
+	    {
+	        "name": "MZ02 — Rowan, Eriette's Pawn",
+	        "mana_cost": "{2}{B/R}{B/R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "MZ02 — Rowan, Eriette's Pawn.png"
+	        },
+	        "printed names": {
+	            "en": "MZ02 — Rowan, Eriette's Pawn"
+	        },
+	        "back": {
+	            "name": "Rowan, Master of Embereth",
+	            "printed_names": {
+	                "en": "Rowan, Master of Embereth"
+	            },
+	            "image_uris": {
+	                "en": "Rowan, Master of Embereth.png"
+	            },
+	            "type": "Legendary Creature — Human Noble "
+	        }
+	    },
+	    {
+	        "name": "RR01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR01.png"
+	        }
+	    },
+	    {
+	        "name": "RR02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR02.png"
+	        }
+	    },
+	    {
+	        "name": "RR03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR03.png"
+	        }
+	    },
+	    {
+	        "name": "RR04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR04.png"
+	        }
+	    },
+	    {
+	        "name": "RR05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR05.png"
+	        }
+	    },
+	    {
+	        "name": "RR06",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR06.png"
+	        }
+	    },
+	    {
+	        "name": "RR07 — Embereth Restored",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RR07 — Embereth Restored.png"
+	        }
+	    },
+	    {
+	        "name": "UR01 — Goblin Irenmancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR01 — Goblin Irenmancer.png"
+	        }
+	    },
+	    {
+	        "name": "UR02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR02.png"
+	        }
+	    },
+	    {
+	        "name": "UR03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR03.png"
+	        }
+	    },
+	    {
+	        "name": "UR04",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR04.png"
+	        }
+	    },
+	    {
+	        "name": "UR05",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR05.png"
+	        }
+	    },
+	    {
+	        "name": "UR06",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR06.png"
+	        }
+	    },
+	    {
+	        "name": "UR07",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR07.png"
+	        }
+	    },
+	    {
+	        "name": "UR08",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR08.png"
+	        }
+	    },
+	    {
+	        "name": "UR09",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR09.png"
+	        }
+	    },
+	    {
+	        "name": "UR10",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR10.png"
+	        }
+	    },
+	    {
+	        "name": "UR11",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR11.png"
+	        }
+	    },
+	    {
+	        "name": "UR12",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR12.png"
+	        }
+	    },
+	    {
+	        "name": "UR13",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR13.png"
+	        }
+	    },
+	    {
+	        "name": "UR14",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UR14.png"
+	        }
+	    },
+	    {
+	        "name": "CG01 — Snake Cookie",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Artifact Creature — Food Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG01 — Snake Cookie.png"
+	        }
+	    },
+	    {
+	        "name": "CG02 — Charmed Watchdogs",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG02 — Charmed Watchdogs.png"
+	        }
+	    },
+	    {
+	        "name": "CG03 — Cursedblessed Elf",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG03 — Cursedblessed Elf.png"
+	        }
+	    },
+	    {
+	        "name": "CG04 — Ginger Catcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG04 — Ginger Catcher.png"
+	        }
+	    },
+	    {
+	        "name": "CG05 — Relic Hoarder",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Goblin Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG05 — Relic Hoarder.png"
+	        }
+	    },
+	    {
+	        "name": "CG06 — Wilden Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG06 — Wilden Elemental.png"
+	        }
+	    },
+	    {
+	        "name": "CG07 — Gingerbread Thug",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Artifact Creature — Food Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG07 — Gingerbread Thug.png"
+	        }
+	    },
+	    {
+	        "name": "CG08 — Beastial Monarchist",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG08 — Beastial Monarchist.png"
+	        }
+	    },
+	    {
+	        "name": "CG09 — Culinary Dreadmaw",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Artifact Creature — Food Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG09 — Culinary Dreadmaw.png"
+	        }
+	    },
+	    {
+	        "name": "CG10 — Wilden Giant",
+	        "mana_cost": "{6}{G}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "CG10 — Wilden Giant.png"
+	        },
+	        "printed names": {
+	            "en": "CG10 — Wilden Giant"
+	        },
+	        "back": {
+	            "name": "Wilden Strength",
+	            "printed_names": {
+	                "en": "Wilden Strength"
+	            },
+	            "image_uris": {
+	                "en": "Wilden Strength.png"
+	            },
+	            "type": "Sorcery — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CG11 — Return to the Wilds",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG11 — Return to the Wilds.png"
+	        }
+	    },
+	    {
+	        "name": "CG12 — Monstrous Bite",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG12 — Monstrous Bite.png"
+	        }
+	    },
+	    {
+	        "name": "CG13 — Auric Burst",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG13 — Auric Burst.png"
+	        }
+	    },
+	    {
+	        "name": "CG14 — Tendrils of Growth",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG14 — Tendrils of Growth.png"
+	        }
+	    },
+	    {
+	        "name": "CG15 — Commune with Nature",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CG15 — Commune with Nature.png"
+	        }
+	    },
+	    {
+	        "name": "MG01 — Syr Ginger Hengebreaker",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{G}",
+	        "type": "Legendary Artifact Creature — Food Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/MG01 — Syr Ginger Hengebreaker.png"
+	        }
+	    },
+	    {
+	        "name": "MG02 — Questing Beast Returned",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Legendary Creature — Beast ",
+	        "image_uris": {
+	            "en": "MG02 — Questing Beast Returned.png"
+	        },
+	        "printed names": {
+	            "en": "MG02 — Questing Beast Returned"
+	        },
+	        "back": {
+	            "name": "The Archon of Quests",
+	            "printed_names": {
+	                "en": "The Archon of Quests"
+	            },
+	            "image_uris": {
+	                "en": "The Archon of Quests.png"
+	            },
+	            "type": "Legendary Creature — Archon "
+	        }
+	    },
+	    {
+	        "name": "RG01",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG01.png"
+	        }
+	    },
+	    {
+	        "name": "RG02",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG02.png"
+	        }
+	    },
+	    {
+	        "name": "RG03",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG03.png"
+	        }
+	    },
+	    {
+	        "name": "RG04",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG04.png"
+	        }
+	    },
+	    {
+	        "name": "RG05",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG05.png"
+	        }
+	    },
+	    {
+	        "name": "RG06",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG06.png"
+	        }
+	    },
+	    {
+	        "name": "RG07 — Garenbrig Restored",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RG07 — Garenbrig Restored.png"
+	        }
+	    },
+	    {
+	        "name": "UG01 — Hungry Watchdogs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG01 — Hungry Watchdogs.png"
+	        }
+	    },
+	    {
+	        "name": "UG02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG02.png"
+	        }
+	    },
+	    {
+	        "name": "UG03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG03.png"
+	        }
+	    },
+	    {
+	        "name": "UG04",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG04.png"
+	        }
+	    },
+	    {
+	        "name": "UG05",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG05.png"
+	        }
+	    },
+	    {
+	        "name": "UG06",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG06.png"
+	        }
+	    },
+	    {
+	        "name": "UG07",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG07.png"
+	        }
+	    },
+	    {
+	        "name": "UG08",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG08.png"
+	        }
+	    },
+	    {
+	        "name": "UG09",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG09.png"
+	        }
+	    },
+	    {
+	        "name": "UG10",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG10.png"
+	        }
+	    },
+	    {
+	        "name": "UG11",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG11.png"
+	        }
+	    },
+	    {
+	        "name": "UG12",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG12.png"
+	        }
+	    },
+	    {
+	        "name": "UG13",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG13.png"
+	        }
+	    },
+	    {
+	        "name": "UG14",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UG14.png"
+	        }
+	    },
+	    {
+	        "name": "RM03",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM03.png"
+	        }
+	    },
+	    {
+	        "name": "RM05",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM05.png"
+	        }
+	    },
+	    {
+	        "name": "RM07",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM07.png"
+	        }
+	    },
+	    {
+	        "name": "RM09",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM09.png"
+	        }
+	    },
+	    {
+	        "name": "RM11",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM11.png"
+	        }
+	    },
+	    {
+	        "name": "RM17",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM17.png"
+	        }
+	    },
+	    {
+	        "name": "RM13",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM13.png"
+	        }
+	    },
+	    {
+	        "name": "RM19",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM19.png"
+	        }
+	    },
+	    {
+	        "name": "RM15",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM15.png"
+	        }
+	    },
+	    {
+	        "name": "RM01",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM01.png"
+	        }
+	    },
+	    {
+	        "name": "RM02",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM02.png"
+	        }
+	    },
+	    {
+	        "name": "RM10",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM10.png"
+	        }
+	    },
+	    {
+	        "name": "RM16",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{G}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM16.png"
+	        }
+	    },
+	    {
+	        "name": "RM20",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{R}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM20.png"
+	        }
+	    },
+	    {
+	        "name": "RM14",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM14.png"
+	        }
+	    },
+	    {
+	        "name": "RM18",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM18.png"
+	        }
+	    },
+	    {
+	        "name": "RM12",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM12.png"
+	        }
+	    },
+	    {
+	        "name": "RM08",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM08.png"
+	        }
+	    },
+	    {
+	        "name": "RM06",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM06.png"
+	        }
+	    },
+	    {
+	        "name": "RM04",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature or Noncreature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/RM04.png"
+	        }
+	    },
+	    {
+	        "name": "UM07 — Grumgully, Wilden Speaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Creature — Goblin Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM07 — Grumgully, Wilden Speaker.png"
+	        }
+	    },
+	    {
+	        "name": "UM05 — Skeril, True Piper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Legendary Creature — Rat Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM05 — Skeril, True Piper.png"
+	        }
+	    },
+	    {
+	        "name": "UM03 — Obyra, Fey Champion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Legendary Creature — Faerie Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM03 — Obyra, Fey Champion.png"
+	        }
+	    },
+	    {
+	        "name": "UM01 — Hylda, Retired Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{U}",
+	        "type": "Legendary Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM01 — Hylda, Retired Witch.png"
+	        }
+	    },
+	    {
+	        "name": "UM19 — Syr Vance, Stalwart Hero",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{R}",
+	        "type": "Legendary Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM19 — Syr Vance, Stalwart Hero.png"
+	        }
+	    },
+	    {
+	        "name": "UM14 — Oliver's Theft",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM14 — Oliver's Theft.png"
+	        }
+	    },
+	    {
+	        "name": "UM15 — Grigog, Gingerhorde Marshal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Legendary Artifact Creature — Food Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM15 — Grigog, Gingerhorde Marshal.png"
+	        }
+	    },
+	    {
+	        "name": "UM17 — Johann, Chaotic Sorcerer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM17 — Johann, Chaotic Sorcerer.png"
+	        }
+	    },
+	    {
+	        "name": "UM11 — Syr Armont, the Betrayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Legendary Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM11 — Syr Armont, the Betrayer.png"
+	        }
+	    },
+	    {
+	        "name": "UM10 — Rose's Discovery",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM10 — Rose's Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "UM18 — Johann's Failure",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM18 — Johann's Failure.png"
+	        }
+	    },
+	    {
+	        "name": "UM16 — Grigog's Tactics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM16 — Grigog's Tactics.png"
+	        }
+	    },
+	    {
+	        "name": "UM06 — Skeril's Servitude",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM06 — Skeril's Servitude.png"
+	        }
+	    },
+	    {
+	        "name": "UM12 — Armont's Betrayal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM12 — Armont's Betrayal.png"
+	        }
+	    },
+	    {
+	        "name": "UM08 — Grumgully's Teachings",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM08 — Grumgully's Teachings.png"
+	        }
+	    },
+	    {
+	        "name": "UM04 — Obyra's Awakening",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM04 — Obyra's Awakening.png"
+	        }
+	    },
+	    {
+	        "name": "UM09 — Rose, Pursuer of History",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM09 — Rose, Pursuer of History.png"
+	        }
+	    },
+	    {
+	        "name": "UM02 — Hylda's Change of Heart",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM02 — Hylda's Change of Heart.png"
+	        }
+	    },
+	    {
+	        "name": "UM20 — Vance's Act of Heroism",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM20 — Vance's Act of Heroism.png"
+	        }
+	    },
+	    {
+	        "name": "UM13 — Oliver, Stolen Child",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Legendary Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UM13 — Oliver, Stolen Child.png"
+	        }
+	    },
+	    {
+	        "name": "CA01 — Gingerbrute",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Food Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CA01 — Gingerbrute.png"
+	        }
+	    },
+	    {
+	        "name": "CC01 — Archon's Herald",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Brushwagg ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CC01 — Archon's Herald.png"
+	        }
+	    },
+	    {
+	        "name": "CA02 — Clockwork Friend",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "CA02 — Clockwork Friend.png"
+	        },
+	        "printed names": {
+	            "en": "CA02 — Clockwork Friend"
+	        },
+	        "back": {
+	            "name": "Play with Time",
+	            "printed_names": {
+	                "en": "Play with Time"
+	            },
+	            "image_uris": {
+	                "en": "Play with Time.png"
+	            },
+	            "type": "Sorcery — Adventure "
+	        }
+	    },
+	    {
+	        "name": "CA03 — Voidflower Stew",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CA03 — Voidflower Stew.png"
+	        }
+	    },
+	    {
+	        "name": "CA04 — Monolith of Heroics",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CA04 — Monolith of Heroics.png"
+	        }
+	    },
+	    {
+	        "name": "CC02 — Questseek",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/CC02 — Questseek.png"
+	        }
+	    },
+	    {
+	        "name": "UA01",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA01.png"
+	        }
+	    },
+	    {
+	        "name": "UA02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA02.png"
+	        }
+	    },
+	    {
+	        "name": "UA03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA03.png"
+	        }
+	    },
+	    {
+	        "name": "UA04",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA04.png"
+	        }
+	    },
+	    {
+	        "name": "UA05",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA05.png"
+	        }
+	    },
+	    {
+	        "name": "UA06",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA06.png"
+	        }
+	    },
+	    {
+	        "name": "UA07",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UA07.png"
+	        }
+	    },
+	    {
+	        "name": "UL01",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UL01.png"
+	        }
+	    },
+	    {
+	        "name": "UL02",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UL02.png"
+	        }
+	    },
+	    {
+	        "name": "UL03",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/UL03.png"
+	        }
+	    },
+	    {
+	        "name": "Anointed Procession",
+	        "rarity": "special",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Anointed Procession.png"
+	        }
+	    },
+	    {
+	        "name": "Awakening Zone",
+	        "rarity": "special",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Awakening Zone.png"
+	        }
+	    },
+	    {
+	        "name": "Bastion of Remembrance",
+	        "rarity": "special",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Bastion of Remembrance.png"
+	        }
+	    },
+	    {
+	        "name": "Black Market Connections",
+	        "rarity": "special",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Black Market Connections.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Bounty",
+	        "rarity": "special",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Curse of Bounty.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Verbosity",
+	        "rarity": "special",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Curse of Verbosity.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Disturbance",
+	        "rarity": "special",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Curse of Disturbance.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Opulence",
+	        "rarity": "special",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Curse of Opulence.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Vitality",
+	        "rarity": "special",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/MED/main/MED5C-files/Curse of Vitality.png"
+	        }
+	    },
+	    {
+	        "name": "MZ01 — Will, the Boy King",
+	        "mana_cost": "{2}{W/U}{W/U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "MZ01 — Will, the Boy King.png"
+	        },
+	        "printed names": {
+	            "en": "MZ01 — Will, the Boy King"
+	        },
+	        "back": {
+	            "name": "Will, Master of Vantress",
+	            "printed_names": {
+	                "en": "Will, Master of Vantress"
+	            },
+	            "image_uris": {
+	                "en": "Will, Master of Vantress.png"
+	            },
+	            "type": "Legendary Creature — Human Noble "
+	        }
+	    }
+	]
+	[RareSlot(0)]
+		0 RX01
+		0 RX02
+		0 RX03
+		0 RX04
+		0 RX05
+		0 RW01
+		0 RW02
+		0 RW03
+		0 RW04
+		0 RW05
+		0 RW06
+		0 RW07 — Ardenvale Restored
+		0 RU01
+		0 RU02
+		0 RU03
+		0 RU04
+		0 RU05
+		0 RU06
+		0 RU07 — Vantress Restored
+		0 RB01
+		0 RB02
+		0 RB03
+		0 RB04
+		0 RB05
+		0 RB06
+		0 RB07 — Locthwain Restored
+		0 RR01
+		0 RR02
+		0 RR03
+		0 RR04
+		0 RR05
+		0 RR06
+		0 RR07 — Embereth Restored
+		0 RG01
+		0 RG02
+		0 RG03
+		0 RG04
+		0 RG05
+		0 RG06
+		0 RG07 — Garenbrig Restored
+		0 RM03
+		0 RM05
+		0 RM07
+		0 RM09
+		0 RM11
+		0 RM17
+		0 RM13
+		0 RM19
+		0 RM15
+		0 RM01
+		0 RM02
+		0 RM10
+		0 RM16
+		0 RM20
+		0 RM14
+		0 RM18
+		0 RM12
+		0 RM08
+		0 RM06
+		0 RM04
+		1 MX01
+		1 MX02
+		1 MX03
+		1 MX04
+		1 MM04 — Ashiok, Archon Seeker
+		1 MW01 — The Circle Dormant
+		1 MM01 — Eriette, Wicked Whisperer
+		1 MW02 — Loyalty Beast Returned
+		1 MU01 — The Shifting Magic Mirror
+		1 MU02
+		1 MM02 — Sorin, Death Connoisseur
+		1 MB01 — The Cauldron of Eternal Death
+		1 MB02
+		1 MM03 — Oko, Ancient Trickster
+		1 MR01 — The Irencrag, Legend Forger
+		1 MR02
+		1 MZ02 — Rowan, Eriette's Pawn
+		1 MG01 — Syr Ginger Hengebreaker
+		1 MG02 — Questing Beast Returned
+		1 MZ01 — Will, the Boy King
+	[UncommonSlot(0)]
+		0 UW01 — Valiant Treasurer
+		0 UW02 — Mob Rallier
+		0 UW03 — Enhanceable Simulacrum
+		0 UW04 — Enhancing Beast
+		0 UW05 — Knight of Relics
+		0 UW06 — Relic Hunter's Steed
+		0 UW07 — Auric Warrior
+		0 UW08 — Unknown Innocents
+		0 UW09 — Indebted Squire
+		0 UW10 — Gallant Jouster
+		0 UW11
+		0 UW12
+		0 UW13
+		0 UW14 — Unlikely Virtue
+		0 UU01 — Faerie Vandal
+		0 UU02
+		0 UU03
+		0 UU04
+		0 UU05
+		0 UU14
+		0 UU07
+		0 UU08 — #paradox payoff
+		0 UU09
+		0 UU10
+		0 UU11
+		0 UU12
+		0 UU13
+		0 UU06 — Exterminator Plaything
+		0 UB01 — Flesh Assimilator
+		0 UB02
+		0 UB03
+		0 UB04
+		0 UB05
+		0 UB06
+		0 UB07
+		0 UB08
+		0 UB09
+		0 UB10
+		0 UB11
+		0 UB12
+		0 UB13
+		0 UB14
+		0 UR01 — Goblin Irenmancer
+		0 UR02
+		0 UR03
+		0 UR04
+		0 UR05
+		0 UR06
+		0 UR07
+		0 UR08
+		0 UR09
+		0 UR10
+		0 UR11
+		0 UR12
+		0 UR13
+		0 UR14
+		0 UG01 — Hungry Watchdogs
+		0 UG02
+		0 UG03
+		0 UG04
+		0 UG05
+		0 UG06
+		0 UG07
+		0 UG08
+		0 UG09
+		0 UG10
+		0 UG11
+		0 UG12
+		0 UG13
+		0 UG14
+		0 UM07 — Grumgully, Wilden Speaker
+		0 UM05 — Skeril, True Piper
+		0 UM03 — Obyra, Fey Champion
+		0 UM01 — Hylda, Retired Witch
+		0 UM19 — Syr Vance, Stalwart Hero
+		0 UM14 — Oliver's Theft
+		0 UM15 — Grigog, Gingerhorde Marshal
+		0 UM17 — Johann, Chaotic Sorcerer
+		0 UM11 — Syr Armont, the Betrayer
+		0 UM10 — Rose's Discovery
+		0 UM18 — Johann's Failure
+		0 UM16 — Grigog's Tactics
+		0 UM06 — Skeril's Servitude
+		0 UM12 — Armont's Betrayal
+		0 UM08 — Grumgully's Teachings
+		0 UM04 — Obyra's Awakening
+		0 UM09 — Rose, Pursuer of History
+		0 UM02 — Hylda's Change of Heart
+		0 UM20 — Vance's Act of Heroism
+		0 UM13 — Oliver, Stolen Child
+		0 UA01
+		0 UA02
+		0 UA03
+		0 UA04
+		0 UA05
+		0 UA06
+		0 UA07
+		0 UL01
+		0 UL02
+		0 UL03
+	[CommonSlot(15)]
+		50 CW01 — Enraptured Woodsman
+		50 CW02 — Armont's Seeker
+		50 CW03 — Vance's Squire
+		50 CW04 — Hylda's Apprentice
+		50 CW05 — Relic Hunter's Familiar
+		50 CW06 — Hunting Eagle
+		50 CW07 — False Heir
+		50 CW08 — Inspiring Jouster
+		50 CW09 — Vance's Rally
+		50 CW10 — Seeker of Heroes
+		50 CW11 — Graceful Giant
+		50 CW12 — Eriette's Lullaby
+		50 CW13 — Rose's Erasure
+		50 CW14 — Swift Baking
+		50 CW15 — Disenchantive Mentality
+		50 CU01 — Hunted Borrower
+		50 CU02 — Paradoxical Ghost
+		50 CU03 — Feymaton
+		50 CU04 — Encumbered Guardian
+		50 CU05 — Balanced Eater
+		50 CU06 — Farsight Frog
+		50 CU07 — Talion's Warcaller
+		50 CU08 — Scheming Giant
+		50 CU09 — Grigog's Enhancement
+		50 CU10 — Adamant Negation
+		50 CU11 — Moonrise Gauntlets
+		50 CU12 — Unexplained Vision
+		50 CU13 — Witness Frogification
+		50 CU14 — Learned Disruption
+		50 CU15 — Fey Dealings
+		50 CB03 — Poisoned Gingerwarrior
+		50 CB02 — Accursed Faerie
+		50 CB01 — Herald of the Swarm
+		50 CB04 — High-Flying Trickster
+		50 CB05 — Charmed Vermin
+		50 CB06 — Grounded Faeries
+		50 CB07 — Faerie Overseer
+		50 CB08 — Skeril's Ratcaller
+		50 CB09 — Deadly Giant
+		50 CB10 — Spiteful Strength
+		50 CB11 — Auric Fortitude
+		50 CB12 — Armont's Sacrifice
+		50 CB13 — Oliver's Manipulation
+		50 CB14 — Murderous Choice
+		50 CB15 — Go for the Brain
+		50 CR01 — Redcap Spearguard
+		50 CR02 — Eager Combatant
+		50 CR03 — Trebuchet Ramparts
+		50 CR04 — Redcap Rummager
+		50 CR05 — Ratstalked Knight
+		50 CR06 — Flamestriker Ogre
+		50 CR07 — Wildenrage Bull
+		50 CR08 — Writhing Hulk
+		50 CR09 — Raging Giant
+		50 CR10 — Sunfire Strength
+		50 CR11 — Firesight
+		50 CR12 — Flick a Coin
+		50 CR13 — Paradoxical Might
+		50 CR14 — Burning Sight
+		50 CR15 — Flames and Sparks
+		50 CG01 — Snake Cookie
+		50 CG02 — Charmed Watchdogs
+		50 CG03 — Cursedblessed Elf
+		50 CG04 — Ginger Catcher
+		50 CG05 — Relic Hoarder
+		50 CG06 — Wilden Elemental
+		50 CG07 — Gingerbread Thug
+		50 CG08 — Beastial Monarchist
+		50 CG09 — Culinary Dreadmaw
+		50 CG10 — Wilden Giant
+		50 CG11 — Return to the Wilds
+		50 CG12 — Monstrous Bite
+		50 CG13 — Auric Burst
+		50 CG14 — Tendrils of Growth
+		50 CG15 — Commune with Nature
+		50 CA01 — Gingerbrute
+		50 CC01 — Archon's Herald
+		50 CA02 — Clockwork Friend
+		50 CA03 — Voidflower Stew
+		50 CA04 — Monolith of Heroics
+		50 CC02 — Questseek
+	[BasicSlot(1 
